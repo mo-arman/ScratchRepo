@@ -1,2 +1,2 @@
 # ScratchRepo
-Practice The React Therefore create a Repo 
+Practice The React afterthat create a Repo 
